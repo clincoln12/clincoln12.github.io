@@ -1,11 +1,11 @@
 # Site settings
 author: Chris Lincoln
-title: 
+title: Lincoln Learns
 header-img: img/home-bg.png
 email: chris.lincoln12@gmail.com
 copyright_name: Chris Lincoln
 description: > # this means to ignore newlines until "baseurl:"
-  
+  In Progress
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  clincoln12
