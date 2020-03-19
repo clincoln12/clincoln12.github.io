@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "IMDB Ratings Data Gem Project"
-date:       2020-03-19 17:54:21 +0000
+date:       2020-03-19 13:54:23 -0400
 permalink:  imdb_ratings_data_gem_project
 ---
 
