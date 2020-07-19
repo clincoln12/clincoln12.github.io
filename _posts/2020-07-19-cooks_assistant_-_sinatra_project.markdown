@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Cook's Assistant - Sinatra Project"
-date:       2020-07-19 18:14:05 +0000
+title:      "Cook's Assistant (Sinatra Project)"
+date:       2020-07-19 14:14:06 -0400
 permalink:  cooks_assistant_-_sinatra_project
 ---
 
