@@ -18,6 +18,7 @@ Multiple times throughout my Controllers it was important to be able to find a U
 
 ```Recipe.find(params[:id]) => returns the Recipe if it exists BUT raises an exception if it doesn't```
 
+
 ```Recipe.find_by_id(params[:id]) => returns the Recipe if it exists BUT returns nil if it doesn't```
 
 This allowed me to redirect Users to an 'OOPS' page if the Recipe ever returned nil. No more broken pages!
