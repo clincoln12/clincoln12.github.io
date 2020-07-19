@@ -16,8 +16,9 @@ Needless to say I was fully aware of the week of grinding that was ahead of me. 
 
 Multiple times throughout my Controllers it was important to be able to find a User or a Recipe by an ID. What I didn't realize is that if a Recipe ID or User ID didn't exist - there would be different return values depending on the method. Example:
 
-```Recipe.find(params[:id]) => returns the Recipe if it exists BUT raises an exception if it doesn't
-Recipe.find_by_id(params[:id]) => returns the Recipe if it exists BUT returns nil if it doesn't```
+```Recipe.find(params[:id]) => returns the Recipe if it exists BUT raises an exception if it doesn't```
+
+```Recipe.find_by_id(params[:id]) => returns the Recipe if it exists BUT returns nil if it doesn't```
 
 This allowed me to redirect Users to an 'OOPS' page if the Recipe ever returned nil. No more broken pages!
 
