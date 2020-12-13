@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "MyMo. [A Subscription Tracking Rails Application]"
-date:       2020-12-12 21:05:44 +0000
+date:       2020-12-12 16:05:45 -0500
 permalink:  mymo_a_subscription_tracking_rails_application
 ---
 
@@ -18,7 +18,7 @@ Before I get into a basic breakdown of the application I just want to give a sho
 
 Take your time to really think about your data structure/schema! You'll thank yourself later.
 
-2) Rails Magic: The more you use the Rails - the more you love it. But with Rails magic comes great responsibility. I found myself looking up the 'What(s)' & the 'Why(s)' quite a bit because there's just so much that it does for you. I'm by no means a Rails expert after finishing this project - but getting stuck in a process like this with little to no help besides the internet really helps you grasp everything more than the labs. (Not a knock on the labs - I'm sure this is the intention of everything)
+**2) Rails Magic:** The more you use the Rails - the more you love it. But with Rails magic comes great responsibility. I found myself looking up the 'What(s)' & the 'Why(s)' quite a bit because there's just so much that it does for you. I'm by no means a Rails expert after finishing this project - but getting stuck in a process like this with little to no help besides the internet really helps you grasp everything more than the labs. (Not a knock on the labs - I'm sure this is the intention of everything)
 
 ## The Application...
 
