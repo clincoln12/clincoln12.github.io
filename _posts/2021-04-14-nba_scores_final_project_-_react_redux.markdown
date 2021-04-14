@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "NBA Scores [Final Project - React/Redux]"
-date:       2021-04-14 14:33:27 +0000
+date:       2021-04-14 10:33:27 -0400
 permalink:  nba_scores_final_project_-_react_redux
 ---
 
@@ -11,8 +11,8 @@ permalink:  nba_scores_final_project_-_react_redux
 **2) The Beauty of React:** Completing my previous project in 'Vanilla' JS made it super obvious to me how convenient React is as a library. The Virtual DOM & reusable components make the entire development process a bit easier. However - at the end of the day it's all JS so there aren't crazy differences where using React becomes a no brainer for any project regardless of the scale.
 **3) Redux Isn't Rocket Science:** While reading the lessons in the course there were definitely times where I had no idea what the hell I was reading. Some of the lessons were a bit long winded & complex (at least to me) so getting through it was a bit brutal. But once I got to implementing it into my project it became a lot more simple. In simple terms:
 
-*- Redux is a state management tool*
-*- There's a 'Store' where you STORE all your data
+*- Redux is a state management tool
+- There's a 'Store' where you STORE all your data
 - Actions are basically just descriptions of what you want to do to the state
 - Reducers are functions that take in the STATE & the ACTION and change the state*
 
