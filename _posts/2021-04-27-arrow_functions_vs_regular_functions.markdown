@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Arrow Functions vs. Regular Functions"
-date:       2021-04-27 22:55:40 +0000
+date:       2021-04-27 18:55:40 -0400
 permalink:  arrow_functions_vs_regular_functions
 ---
 
@@ -47,8 +47,6 @@ Unlike regular functions - arrow functions **DO NOT** have their own **'this'**.
 This is something that I needed to see to understand. So lets look at an example:
 
 ![](https://i.ibb.co/fNBdyZY/arrow-function-this.png)
-
-Notice how
 
 ## Final Thoughts
 
